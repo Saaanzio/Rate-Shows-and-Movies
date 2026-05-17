@@ -1,4 +1,4 @@
-# Showrater
+# Stream Track
 
 Um projeto desenvolvido em Python usando Streamlit e SQLlite.
 
